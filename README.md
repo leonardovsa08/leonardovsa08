@@ -46,6 +46,7 @@ Atuação em projetos Angular, trabalhando no desenvolvimento de interfaces web 
 ---
 
 ## 📊 Estatísticas do GitHub
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=leonardovsa08&repo=landingpage-angular-cobranca&theme=tokyonight)](https://github.com/leonardovsa08/landingpage-angular-cobranca)
 
 ---
 
