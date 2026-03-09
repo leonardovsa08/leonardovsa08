@@ -61,7 +61,7 @@ https://github.com/leonardovsa08/landingpage-angular-cobranca
 [leonardovasconcelosdesa@gmail.com](mailto:leonardovasconcelosdesa@gmail.com)
 
 💼 LinkedIn:
-(Em Atualização)
+www.linkedin.com/in/leonardovsa
 
 📍 Localização:
 Assis - São Paulo - Brasil
