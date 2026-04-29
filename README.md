@@ -46,12 +46,11 @@ Atuação em projetos Angular, trabalhando no desenvolvimento de interfaces web 
 ---
 
 ## 📊 Estatísticas do GitHub
-📌 Landing Page Angular Cobrança
+📌 Portifolio 
 
 Aplicação de landing page desenvolvida em Angular utilizando Tailwind CSS para estilização.
 
-🔗 Repositório:
-https://github.com/leonardovsa08/landingpage-angular-cobranca
+https://portfolio-leonardovsa.vercel.app/
 
 ---
 
