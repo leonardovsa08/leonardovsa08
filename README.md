@@ -50,6 +50,7 @@ habilidades técnicas e principais projetos.
 
 </div>
 
+---
 
 <div align="center">
 
