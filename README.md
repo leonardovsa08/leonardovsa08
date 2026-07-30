@@ -4,7 +4,7 @@
 
 ### Front-End Developer • Angular & Tailwind CSS
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Front-End+Developer;Angular+%2B+TypeScript+%2B+Tailwind+CSS;Construindo+interfaces+modernas;Sempre+aprendendo+algo+novo+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Front-End+Developer;Angular+%2B+TypeScript+%2B+Tailwind+CSS;Construindo+interfaces+modernas;Sempre+aprendendo+algo+novo)](https://git.io/typing-svg)
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:leonardovasconcelosdesa@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonardovsa)
@@ -14,7 +14,7 @@
 
 ---
 
-## 🚀 Sobre mim
+##  Sobre mim
 
 Sou desenvolvedor **Front-End** em início de carreira, apaixonado por tecnologia e desenvolvimento de software. Entrei no estágio **sem conhecimento prévio em Angular** e, desde então, venho construindo projetos reais com o framework — evoluindo na prática, um commit de cada vez.
 
@@ -29,16 +29,10 @@ const leonardo = {
 };
 ```
 
-- 🎓 Cursando **Bacharelado em Ciência da Computação** (início em 2026)
-- 🖥️ Ensino médio com **habilitação técnica em Informática**
-- 💼 Estagiário de **Front-End Developer** na **Vip Automação**
-- 📚 Estudando **Angular, Tailwind CSS** e **integração de APIs**
-- 🔧 Fluxo de desenvolvimento com **Git & GitHub**
-- 💻 Programando com **Cursor**
 
 ---
 
-## 🛠️ Tecnologias & Ferramentas
+##  Tecnologias & Ferramentas
 
 <div align="center">
 
@@ -55,7 +49,7 @@ const leonardo = {
 
 ---
 
-## 📌 Experiência
+##  Experiência
 
 <table>
 <tr>
@@ -73,16 +67,16 @@ Atuação em projetos Angular, com foco no desenvolvimento de interfaces web mod
 
 ---
 
-## 📌 Projeto em destaque
+##  Projeto em destaque
 
-### 🖥️ Portfólio Pessoal
+###  Portfólio Pessoal
 Landing page desenvolvida em **Angular** com estilização em **Tailwind CSS**.
 
 🔗 **[portfolio-leonardovsa.vercel.app](https://portfolio-leonardovsa.vercel.app/)**
 
 ---
 
-## 📊 Estatísticas do GitHub
+##  Estatísticas do GitHub
 
 <div align="center">
 
@@ -93,21 +87,21 @@ Landing page desenvolvida em **Angular** com estilização em **Tailwind CSS**.
 
 </div>
 
-> 💡 *Se algum widget acima aparecer vazio, é só ajustar o `username` do GitHub para o correto.*
+>  *Se algum widget acima aparecer vazio, é só ajustar o `username` do GitHub para o correto.*
 
 ---
 
-## 📫 Vamos conversar?
+##  Vamos conversar?
 
 <div align="center">
 
-📧 **Email:** [leonardovasconcelosdesa@gmail.com](mailto:leonardovasconcelosdesa@gmail.com)
-💼 **LinkedIn:** [linkedin.com/in/leonardovsa](https://www.linkedin.com/in/leonardovsa)
-🌐 **Portfólio:** [portfolio-leonardovsa.vercel.app](https://portfolio-leonardovsa.vercel.app/)
-📍 **Localização:** Assis, São Paulo, Brasil
+ **Email:** [leonardovasconcelosdesa@gmail.com](mailto:leonardovasconcelosdesa@gmail.com)
+ **LinkedIn:** [linkedin.com/in/leonardovsa](https://www.linkedin.com/in/leonardovsa)
+ **Portfólio:** [portfolio-leonardovsa.vercel.app](https://portfolio-leonardovsa.vercel.app/)
+ **Localização:** Assis, São Paulo, Brasil
 
 ---
 
-⭐ *Aberto a oportunidades como Front-End Developer — vamos construir algo incrível juntos!*
+ *Aberto a oportunidades como Front-End Developer — vamos construir algo incrível juntos!*
 
 </div>
