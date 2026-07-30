@@ -1,5 +1,5 @@
 <div align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:38BDF8&height=180&section=header&text=Leonardo%20Vasconcelos%20de%20Sá&fontSize=38&fontColor=ffffff&fontAlignY=40&desc=Front-End%20Developer&descAlignY=58&descSize=18" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:C2410C,100:FB923C&height=180&section=header&text=Leonardo%20Vasconcelos%20de%20Sá&fontSize=38&fontColor=ffffff&fontAlignY=40&desc=Front-End%20Developer&descAlignY=58&descSize=18" />
 </div>
 
 <div align="center">
@@ -42,7 +42,6 @@ Landing page construída em Angular, estilizada com Tailwind CSS.
 ### GitHub
 
 <img src="https://github-readme-stats.vercel.app/api?username=leonardovsa08&show_icons=true&theme=default&hide_border=true&hide_title=true&hide_rank=true" height="150" />
-
 
 <br>
 <br>
