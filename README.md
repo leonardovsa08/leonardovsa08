@@ -38,7 +38,12 @@ Desenvolvedor Front-End em início de carreira, construindo interfaces com **Ang
 
 ### Portfólio Pessoal
 
-Aplicação desenvolvida com **Angular**, **TypeScript** e **Tailwind CSS**, criada para apresentar minha trajetória profissional, habilidades técnicas e principais projetos.
+A responsive portfolio application developed with **Angular** and **Tailwind CSS**, designed to showcase my professional background, technical skills, and selected projects through a modern and intuitive interface.
+
+**Technologies**
+
+`Angular` · `TypeScript` · `Tailwind CSS` · `Responsive Design`
+
 
 <a href="https://portfolio-leonardovsa.vercel.app">
     <img src="https://img.shields.io/badge/Acessar%20Portfólio-C2410C?style=for-the-badge&logo=vercel&logoColor=white"/>
