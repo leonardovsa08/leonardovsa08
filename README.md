@@ -41,9 +41,8 @@ Landing page construída em Angular, estilizada com Tailwind CSS.
 
 ### GitHub
 
-<img src="https://github-readme-stats.vercel.app/api?username=leonardovsa&show_icons=true&theme=default&hide_border=true&hide_title=true&hide_rank=true" height="150" />
+<img src="https://github-readme-stats.vercel.app/api?username=leonardovsa08&show_icons=true&theme=default&hide_border=true&hide_title=true&hide_rank=true" height="150" />
 
-<sub>Ajuste <code>leonardovsa</code> para o seu usuário exato do GitHub.</sub>
 
 <br>
 <br>
