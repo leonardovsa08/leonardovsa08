@@ -38,61 +38,88 @@ Desenvolvedor Front-End em início de carreira, construindo interfaces com **Ang
 <tr>
 <td width="65%">
 
-### Personal Portfolio
+## Projeto em Destaque
 
-A responsive portfolio application developed with **Angular** and **Tailwind CSS**, designed to showcase my professional background, technical skills, and selected projects through a modern and intuitive interface.
+<table>
+<tr>
+<td width="60%">
 
-**Technologies**
+### Portfólio Pessoal
 
-`Angular` · `TypeScript` · `Tailwind CSS` · `Responsive Design`
+Aplicação desenvolvida com **Angular** e **Tailwind CSS**, criada para apresentar minha trajetória profissional, habilidades técnicas e projetos de forma moderna, responsiva e intuitiva.
 
-<br>
+#### Tecnologias
+
+<p>
+<img src="https://skillicons.dev/icons?i=angular,typescript,tailwind,html,css"/>
+</p>
 
 <a href="https://portfolio-leonardovsa.vercel.app">
-<img src="https://img.shields.io/badge/Live%20Demo-111827?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-
-<a href="https://github.com/leonardovsa08">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Acessar%20Portfólio-2563EB?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
 </td>
 
 <td align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=leonardovsa08&show_icons=true&theme=transparent&hide_border=true&hide_title=true&include_all_commits=true&count_private=true"/>
+<img src="https://github-readme-stats.vercel.app/api?username=leonardovsa08&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&theme=github_dark_dimmed"/>
 
 </td>
-
 </tr>
 </table>
 
 ---
 
-## GitHub Analytics
+# Estatísticas do GitHub
 
-<p align="center">
+<div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardovsa08&layout=compact&theme=transparent&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=leonardovsa08&show_icons=true&theme=github_dark_dimmed&include_all_commits=true&count_private=true&hide_border=true"/>
 
-<img height="170" src="https://streak-stats.demolab.com?user=leonardovsa08&theme=transparent&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardovsa08&layout=compact&langs_count=8&theme=github_dark_dimmed&hide_border=true"/>
 
-</p>
+</div>
 
-<p align="center">
+<div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=leonardovsa08&theme=github-light&hide_border=true"/>
+<img width="760" src="https://streak-stats.demolab.com?user=leonardovsa08&theme=github-dark-blue&hide_border=true"/>
 
-</p>
+</div>
+
+<div align="center">
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=leonardovsa08&theme=github-compact&hide_border=true"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=leonardovsa08&theme=algolia&no-frame=true&row=1&column=6"/>
+
+</div>
 
 ---
 
 <div align="center">
 
-**Leonardo Vasconcelos de Sá**
+### Vamos nos conectar
 
-Front-End Developer • Angular • TypeScript • Tailwind CSS
+<a href="mailto:leonardovasconcelosdesa@gmail.com">
+<img src="https://img.shields.io/badge/E-mail-181717?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-Assis, São Paulo, Brazil
+<a href="https://www.linkedin.com/in/leonardovsa">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://portfolio-leonardovsa.vercel.app">
+<img src="https://img.shields.io/badge/Portfólio-111827?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+<br><br>
+
+<sub><strong>Leonardo Vasconcelos de Sá</strong></sub>
+
+<sub>Front-End Developer • Assis, São Paulo • Brasil</sub>
 
 </div>
