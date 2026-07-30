@@ -38,7 +38,7 @@ Desenvolvedor Front-End em início de carreira, construindo interfaces com **Ang
 
 ### Portfólio Pessoal
 
-A responsive portfolio application developed with **Angular** and **Tailwind CSS**, designed to showcase my professional background, technical skills, and selected projects through a modern and intuitive interface.
+Aplicação desenvolvida com **Angular** e **Tailwind CSS**, criada para apresentar minha trajetória profissional, habilidades técnicas e principais projetos.
 
 **Technologies**
 
