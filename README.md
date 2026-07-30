@@ -32,7 +32,7 @@ Desenvolvedor Front-End em início de carreira, construindo interfaces com **Ang
 
 <br>
 <br>
-## Projeto em Destaque
+### Projeto em Destaque
 
 <div align="center">
 
@@ -41,7 +41,7 @@ Desenvolvedor Front-End em início de carreira, construindo interfaces com **Ang
 Aplicação desenvolvida com **Angular**, **TypeScript** e **Tailwind CSS**, criada para apresentar minha trajetória profissional, habilidades técnicas e principais projetos.
 
 <a href="https://portfolio-leonardovsa.vercel.app">
-    <img src="https://img.shields.io/badge/Acessar%20Portfólio-2563EB?style=for-the-badge&logo=vercel&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Acessar%20Portfólio-FB923C?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
 </div>
