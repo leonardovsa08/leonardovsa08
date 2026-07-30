@@ -80,14 +80,14 @@ Landing page desenvolvida em **Angular** com estilização em **Tailwind CSS**.
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=leonardovsa&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardovsa&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=leonardovsa08&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardovsa08&layout=compact&theme=tokyonight&hide_border=true" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=leonardovsa&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=leonardovs08a&theme=tokyonight&hide_border=true" />
 
 </div>
 
->  *Se algum widget acima aparecer vazio, é só ajustar o `username` do GitHub para o correto.*
+>  
 
 ---
 
