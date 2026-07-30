@@ -50,8 +50,6 @@ habilidades técnicas e principais projetos.
 
 </div>
 
----
-
 
 ---
 
