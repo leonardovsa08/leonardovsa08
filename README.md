@@ -54,19 +54,19 @@ habilidades técnicas e principais projetos.
 
 ## Estatísticas
 
+## Estatísticas
+
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=leonardovsa08&show_icons=true&theme=github_dark_dimmed&hide_border=true&include_all_commits=true&count_private=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=leonardovsa08&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true"/>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardovsa08&layout=compact&theme=github_dark_dimmed&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardovsa08&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
 
 </div>
 
-<br>
-
 <div align="center">
 
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=leonardovsa08&theme=github-compact&hide_border=true"/>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=leonardovsa08&theme=tokyo-night&hide_border=true"/>
 
 </div>
 
