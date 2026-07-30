@@ -38,9 +38,8 @@ Desenvolvedor Front-End em início de carreira, construindo interfaces com **Ang
 
 ### Portfólio Pessoal
 
-Aplicação desenvolvida com **Angular** e **Tailwind CSS**, criada para apresentar minha trajetória profissional, habilidades técnicas e principais projetos.
-
-**Technologies**
+Aplicação desenvolvida com **Angular** e **Tailwind CSS**, criada para apresentar minha trajetória profissional, 
+habilidades técnicas e principais projetos.
 
 `Angular` · `TypeScript` · `Tailwind CSS` · `Responsive Design`
 
