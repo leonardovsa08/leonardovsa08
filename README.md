@@ -1,107 +1,128 @@
 <div align="center">
 
-# Olá, eu sou o Leonardo 👋
+# Leonardo Vasconcelos de Sá
 
-### Front-End Developer • Angular & Tailwind CSS
+### Front-End Developer — Angular & Tailwind CSS
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Front-End+Developer;Angular+%2B+TypeScript+%2B+Tailwind+CSS;Construindo+interfaces+modernas;Sempre+aprendendo+algo+novo)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Front-End+Developer;Angular+%2B+TypeScript+%2B+Tailwind+CSS;Construindo+interfaces+modernas;Integra%C3%A7%C3%A3o+com+APIs+REST)](https://git.io/typing-svg)
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:leonardovasconcelosdesa@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonardovsa)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-leonardovsa.vercel.app/)
+<br>
+
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:leonardovasconcelosdesa@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonardovsa)
+[![Portfolio](https://img.shields.io/badge/-Portfólio-000000?style=flat-square&logo=vercel&logoColor=white)](https://portfolio-leonardovsa.vercel.app/)
+[![Location](https://img.shields.io/badge/-Assis,%20SP%20--%20Brasil-333333?style=flat-square&logo=googlemaps&logoColor=white)](#)
 
 </div>
 
----
+<br>
 
-##  Sobre mim
+## Sobre
 
-Sou desenvolvedor **Front-End** em início de carreira, apaixonado por tecnologia e desenvolvimento de software. Entrei no estágio **sem conhecimento prévio em Angular** e, desde então, venho construindo projetos reais com o framework — evoluindo na prática, um commit de cada vez.
+Desenvolvedor Front-End em início de carreira, com foco em **Angular** e **Tailwind CSS**. Ingressei no estágio sem conhecimento prévio no framework e, desde então, venho construindo aplicações reais, atuando na construção de interfaces e na integração com APIs.
 
-```txt
-const leonardo = {
-  formacao: "Bacharelado em Ciência da Computação (início em 2026)",
-  ensinoMedio: "Técnico em Informática",
-  cargoAtual: "Estagiário Front-End Developer @ Vip Automação",
-  estudando: ["Angular", "Tailwind CSS", "Integração de APIs"],
-  ferramentas: ["Git", "GitHub", "Cursor"],
-  objetivo: "Evoluir constantemente em TI e futuramente explorar Back-End",
-};
-```
+| | |
+|---|---|
+| **Formação** | Bacharelado em Ciência da Computação *(início em 2026)* |
+| **Formação técnica** | Ensino médio com habilitação técnica em Informática |
+| **Cargo atual** | Estagiário Front-End Developer — Vip Automação |
+| **Em estudo** | Angular, Tailwind CSS, Integração de APIs |
+| **Objetivo** | Evolução contínua em TI, com aprofundamento futuro em Back-End |
 
+<br>
 
----
-
-##  Tecnologias & Ferramentas
+## Stack
 
 <div align="center">
 
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_APIs-02569B?style=for-the-badge&logo=fastapi&logoColor=white)
+<img src="https://skillicons.dev/icons?i=angular,ts,tailwind,html,css,git,github,vercel" alt="Stack de tecnologias" />
 
 </div>
 
----
+<br>
 
-##  Experiência
+<table align="center">
+<tr>
+<th>Categoria</th>
+<th>Tecnologias</th>
+</tr>
+<tr>
+<td><strong>Front-End</strong></td>
+<td>Angular · TypeScript · HTML5 · CSS3 · Tailwind CSS</td>
+</tr>
+<tr>
+<td><strong>Versionamento</strong></td>
+<td>Git · GitHub</td>
+</tr>
+<tr>
+<td><strong>Integrações</strong></td>
+<td>Consumo de APIs REST</td>
+</tr>
+<tr>
+<td><strong>Ambiente</strong></td>
+<td>Cursor</td>
+</tr>
+</table>
+
+<br>
+
+## Experiência
 
 <table>
 <tr>
-<td width="80" align="center">🏢</td>
+<td width="140" align="center"><strong>Out 2025<br>— Atual</strong></td>
+<td>
+<strong>Vip Automação</strong> — Estagiário de Desenvolvimento Front-End<br>
+Atuação em projetos Angular, com foco no desenvolvimento de interfaces web modernas, integração com APIs e colaboração em equipe utilizando Git e GitHub.
+</td>
+</tr>
+</table>
+
+<br>
+
+## Projeto em destaque
+
+<table>
+<tr>
+<td width="120" align="center">
+<img src="https://skillicons.dev/icons?i=angular,tailwind" alt="Angular e Tailwind" />
+</td>
 <td>
 
-**Vip Automação** — Estágio em Desenvolvimento Front-End
-📅 *Outubro de 2025 — Atual*
+**Portfólio Pessoal**
+Landing page desenvolvida em Angular, estilizada com Tailwind CSS.
 
-Atuação em projetos Angular, com foco no desenvolvimento de interfaces web modernas, integração com APIs e colaboração em equipe utilizando GitHub.
+[portfolio-leonardovsa.vercel.app](https://portfolio-leonardovsa.vercel.app/)
 
 </td>
 </tr>
 </table>
 
----
+<br>
 
-##  Projeto em destaque
-
-###  Portfólio Pessoal
-Landing page desenvolvida em **Angular** com estilização em **Tailwind CSS**.
-
-🔗 **[portfolio-leonardovsa.vercel.app](https://portfolio-leonardovsa.vercel.app/)**
-
----
-
-##  Estatísticas do GitHub
+## Estatísticas do GitHub
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=leonardovsa08&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardovsa08&layout=compact&theme=tokyonight&hide_border=true" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=leonardovs08a&theme=tokyonight&hide_border=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=leonardovsa08&show_icons=true&theme=default&hide_border=true&hide_title=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardovsa08&layout=compact&theme=default&hide_border=true&hide_title=true" />
 
 </div>
 
->  
+<div align="center">
+<sub>Substitua <code>leonardovsa</code> pelo seu nome de usuário exato do GitHub para os widgets carregarem corretamente.</sub>
+</div>
+
+<br>
 
 ---
-
-##  Vamos conversar?
 
 <div align="center">
 
- **Email:** [leonardovasconcelosdesa@gmail.com](mailto:leonardovasconcelosdesa@gmail.com)
- **LinkedIn:** [linkedin.com/in/leonardovsa](https://www.linkedin.com/in/leonardovsa)
- **Portfólio:** [portfolio-leonardovsa.vercel.app](https://portfolio-leonardovsa.vercel.app/)
- **Localização:** Assis, São Paulo, Brasil
+### Contato
 
----
+[leonardovasconcelosdesa@gmail.com](mailto:leonardovasconcelosdesa@gmail.com)  ·  [linkedin.com/in/leonardovsa](https://www.linkedin.com/in/leonardovsa)  ·  [portfolio-leonardovsa.vercel.app](https://portfolio-leonardovsa.vercel.app/)
 
- *Aberto a oportunidades como Front-End Developer — vamos construir algo incrível juntos!*
+<sub>Aberto a oportunidades como Front-End Developer.</sub>
 
 </div>
