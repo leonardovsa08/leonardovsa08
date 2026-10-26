@@ -12,6 +12,9 @@
 
 <table align="center" width="100%">
   <tr>
+    <td colspan="2" align="center"><img src="./assets/spacer.svg" width="2000" height="1" alt=""></td>
+  </tr>
+  <tr>
     <td align="center" width="50%" valign="middle">
       <b>Front-End</b><br>
       <img src="https://skillicons.dev/icons?i=angular,ts,tailwind,html,css" alt="Angular, TypeScript, Tailwind CSS, HTML, CSS">
@@ -38,7 +41,7 @@
 
 <div align="center">
   <a href="https://portfolio-leonardovsa.vercel.app">
-    <img src="./assets/project-portfolio.svg" width="70%" alt="Portfólio Pessoal - Visitar site">
+    <img src="./assets/project-portfolio.svg" width="100%" alt="Portfólio Pessoal - Visitar site">
   </a>
 </div>
 
