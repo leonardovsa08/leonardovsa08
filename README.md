@@ -37,12 +37,12 @@
 ## PROJETOS EM DESTAQUE
 
 <div align="center">
-  <a href="https://portfolio-leonardovsa.vercel.app"><img src="./assets/project-portfolio.png" width="70%" alt="Portfólio Pessoal - Visitar site"></a>
+  <a href="https://portfolio-leonardovsa.vercel.app">
+    <img src="./assets/project-portfolio.svg" width="70%" alt="Portfólio Pessoal - Visitar site">
+  </a>
 </div>
 
-<!-- Para adicionar mais projetos, crie outro card em assets/ no mesmo formato do project-portfolio.png e coloque ao lado, com width="30%" cada (3 por linha). -->
-
-
+<!-- Para adicionar mais projetos, crie outro card em assets/ no mesmo formato do project-portfolio.svg e coloque ao lado, com width="30%" cada (3 por linha). -->
 
 ## GITHUB STATS
 
@@ -75,11 +75,11 @@
 <div align="center">
   <h4>Se quiser conversar sobre projetos, trocar ideias ou conhecer possíveis oportunidades, fique à vontade para entrar em contato.</h4>
   <br>
-  <a href="https://www.linkedin.com/in/leonardovsa"><img src="https://img.shields.io/badge/LinkedIn-C2410C?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://www.linkedin.com/in/leonardovsa"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="48"></a>
   &nbsp;&nbsp;
-  <a href="mailto:leonardovasconcelosdesa@gmail.com"><img src="https://img.shields.io/badge/E--mail-C2410C?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail"></a>
+  <a href="mailto:leonardovasconcelosdesa@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" alt="E-mail" width="48"></a>
   &nbsp;&nbsp;
-  <a href="https://portfolio-leonardovsa.vercel.app/"><img src="https://img.shields.io/badge/Portf%C3%B3lio-C2410C?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfólio"></a>
+  <a href="https://portfolio-leonardovsa.vercel.app/"><img src="https://skillicons.dev/icons?i=vercel&theme=dark" alt="Portfólio" width="48"></a>
   &nbsp;&nbsp;
-  <a href="https://github.com/leonardovsa08"><img src="https://img.shields.io/badge/GitHub-333333?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+  <a href="https://github.com/leonardovsa08"><img src="https://skillicons.dev/icons?i=github&theme=dark" alt="GitHub" width="48"></a>
 </div>
