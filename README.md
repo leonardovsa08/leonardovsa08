@@ -10,31 +10,29 @@
 
 ## SKILLS
 
-<div align="center">
-
-  <img src="https://img.shields.io/badge/FRONT--END-C2410C?style=for-the-badge" alt="Front-End">
-  <br><br>
-  <img src="https://skillicons.dev/icons?i=angular,ts,tailwind,html,css&perline=10" alt="Angular, TypeScript, Tailwind CSS, HTML, CSS">
-
-  <br><br>
-
-  <img src="https://img.shields.io/badge/BACK--END%20(EM%20ESTUDO)-C2410C?style=for-the-badge" alt="Back-End em estudo">
-  <br><br>
-  <img src="https://skillicons.dev/icons?i=java,spring,cpp&perline=10" alt="Java, Spring Boot, C++">
-
-  <br><br>
-
-  <img src="https://img.shields.io/badge/BANCO%20DE%20DADOS-C2410C?style=for-the-badge" alt="Banco de Dados">
-  <br><br>
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=dbeaver&theme=dark" alt="DBeaver">
-
-  <br><br>
-
-  <img src="https://img.shields.io/badge/DESIGN%20E%20FERRAMENTAS-C2410C?style=for-the-badge" alt="Design e Ferramentas">
-  <br><br>
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=figma,git,github,cursor&perline=10&theme=dark" alt="Figma, Git, GitHub, Cursor">
-
-</div>
+<table align="center" width="100%">
+  <tr>
+    <td align="center" width="50%" valign="middle">
+      <b>Front-End</b><br>
+      <img src="https://skillicons.dev/icons?i=angular,ts,tailwind,html,css" alt="Angular, TypeScript, Tailwind CSS, HTML, CSS">
+    </td>
+    <td align="center" width="50%" valign="middle">
+      <b>Back-End (em estudo)</b><br>
+      <img src="https://skillicons.dev/icons?i=java,spring,cpp" alt="Java, Spring, C++">
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%" valign="middle">
+      <b>Banco de Dados</b><br>
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=dbeaver&theme=dark" alt="DBeaver">
+    </td>
+    <td align="center" width="50%" valign="middle">
+      <b>Design e Ferramentas</b><br>
+      <img src="https://skillicons.dev/icons?i=figma,git,github" alt="Figma, Git, GitHub">
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=cursor&theme=dark" alt="Cursor">
+    </td>
+  </tr>
+</table>
 
 ## PROJETOS EM DESTAQUE
 
@@ -76,12 +74,6 @@
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/leonardovsa08/leonardovsa08/output/github-snake.svg">
     <img src="https://raw.githubusercontent.com/leonardovsa08/leonardovsa08/output/github-snake.svg" width="100%" alt="Cobrinha animada percorrendo as contribuições de leonardovsa08">
   </picture>
-</div>
-
-<br><br>
-
-<div align="center">
-  <img src="./assets/quote.png" width="100%" alt="Talk is cheap. Show me the code. - Linus Torvalds">
 </div>
 
 ## CONTATOS
