@@ -1,10 +1,8 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:C2410C,100:FB923C&height=200&section=header&text=Leonardo%20Vasconcelos%20de%20Sá&fontSize=38&fontColor=ffffff&fontAlignY=38&desc=Front-End%20Developer&descAlignY=58&descSize=18&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:C2410C,100:FB923C&height=200&section=header&text=Leonardo%20Vasconcelos%20de%20S%C3%A1&fontSize=38&fontColor=ffffff&fontAlignY=38&desc=Front-End%20Developer&descAlignY=58&descSize=18&animation=fadeIn" alt="Leonardo Vasconcelos de Sá - Front-End Developer" />
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=FB923C&center=true&vCenter=true&width=600&lines=Olá%2C+eu+sou+o+Leonardo;Front-End+Developer+%7C+Angular+%26+TypeScript;Estudando+Java+Spring+Boot+%26+C%2B%2B;Transformando+design+em+interfaces+reais" alt="Typing SVG" />
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=FB923C&center=true&vCenter=true&width=600&lines=Ol%C3%A1%2C+eu+sou+o+Leonardo;Front-End+Developer+%7C+Angular+%26+TypeScript;Estudando+Java+Spring+Boot+%26+C%2B%2B;Transformando+design+em+interfaces+reais" alt="Olá, eu sou o Leonardo" />
 
 <br><br>
 
@@ -20,18 +18,17 @@
 
 Desenvolvedor Front-End em início de carreira, construindo interfaces com **Angular** e **Tailwind CSS** e integrando aplicações a APIs REST. Entrei na área sem experiência prévia no framework e venho evoluindo através de projetos reais, no dia a dia do estágio.
 
-</div>
+<br>
 
-```ts
-const leonardo = {
-  role: "Estagiário Front-End Developer @ Vip Automação",
-  education: ["Bacharelado em Ciência da Computação (2026)", "Ensino Médio Técnico em Informática"],
-  location: "Assis, São Paulo, Brasil",
-  currentlyBuilding: "Interfaces escaláveis com Angular + Tailwind",
-  currentlyLearning: ["Java Spring Boot", "C++", "Integração de APIs REST"],
-  workflow: ["Git", "GitHub", "Cursor"],
-};
-```
+**Estagiário Front-End Developer** na Vip Automação
+<br>
+**Bacharelado em Ciência da Computação** (início em 2026)
+<br>
+**Ensino Médio** com Habilitação Técnica em Informática
+<br>
+**Assis, São Paulo, Brasil**
+
+</div>
 
 <br>
 
@@ -39,29 +36,30 @@ const leonardo = {
 
 <div align="center">
 
-| Categoria | Tecnologias |
-|:---:|:---:|
-| **Front-End** | <img src="https://skillicons.dev/icons?i=angular,ts,tailwind,html,css&perline=10" alt="Angular, TypeScript, Tailwind CSS, HTML, CSS" /> |
-| **Back-End (estudando)** | <img src="https://skillicons.dev/icons?i=java,spring,cpp&perline=10" alt="Java, Spring Boot, C++" /> |
-| **Banco de Dados** | ![DBeaver](https://img.shields.io/badge/DBeaver-382923?style=for-the-badge&logo=dbeaver&logoColor=white) |
-| **Design** | <img src="https://skillicons.dev/icons?i=figma&perline=10" alt="Figma" /> |
-| **Ferramentas** | <img src="https://skillicons.dev/icons?i=git,github&perline=10" alt="Git, GitHub" /> ![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white) |
+<h4>Front-End</h4>
 
-</div>
+<img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
 
-<br>
+<h4>Back-End (estudando)</h4>
 
-### Roadmap de estudos
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot" />
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
 
-<div align="center">
+<h4>Banco de Dados</h4>
 
-| Tecnologia | Status | Progresso |
-|---|---|---|
-| Angular + TypeScript | Em uso diário | ![](https://geps.dev/progress/75?dangerColor=C2410C&warningColor=FB923C&successColor=C2410C) |
-| Tailwind CSS | Em uso diário | ![](https://geps.dev/progress/75?dangerColor=C2410C&warningColor=FB923C&successColor=C2410C) |
-| Integração de APIs REST | Evoluindo | ![](https://geps.dev/progress/60?dangerColor=C2410C&warningColor=FB923C&successColor=C2410C) |
-| Java + Spring Boot | Estudando | ![](https://geps.dev/progress/30?dangerColor=C2410C&warningColor=FB923C&successColor=C2410C) |
-| C++ | Estudando | ![](https://geps.dev/progress/25?dangerColor=C2410C&warningColor=FB923C&successColor=C2410C) |
+<img src="https://img.shields.io/badge/DBeaver-382923?style=for-the-badge&logo=dbeaver&logoColor=white" alt="DBeaver" />
+
+<h4>Design e Ferramentas</h4>
+
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+<img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" alt="Cursor" />
 
 </div>
 
@@ -71,20 +69,22 @@ const leonardo = {
 
 <div align="center">
 
-<!-- Para adicionar mais projetos, copie um bloco <td> e ajuste título, descrição, stack e link. Mantenha até 3 por linha. -->
+<h3>Portfólio Pessoal</h3>
 
-<table>
-  <tr>
-    <td align="center" width="33%">
-      <h3>Portfólio Pessoal</h3>
-      <p>Aplicação em Angular e Tailwind CSS para apresentar minha trajetória, habilidades e projetos.</p>
-      <p><code>Angular</code> · <code>TypeScript</code> · <code>Tailwind CSS</code></p>
-      <a href="https://portfolio-leonardovsa.vercel.app"><img src="https://img.shields.io/badge/Visitar%20site-C2410C?style=for-the-badge&logo=vercel&logoColor=white" alt="Visitar portfólio" /></a>
-    </td>
-  </tr>
-</table>
+Aplicação em Angular e Tailwind CSS para apresentar minha trajetória, habilidades e principais projetos.
 
-<br>
+<img src="https://img.shields.io/badge/Angular-333333?style=flat-square" alt="Angular" />
+<img src="https://img.shields.io/badge/TypeScript-333333?style=flat-square" alt="TypeScript" />
+<img src="https://img.shields.io/badge/Tailwind_CSS-333333?style=flat-square" alt="Tailwind CSS" />
+<img src="https://img.shields.io/badge/Responsive_Design-333333?style=flat-square" alt="Responsive Design" />
+
+<br><br>
+
+<a href="https://portfolio-leonardovsa.vercel.app"><img src="https://img.shields.io/badge/Visitar%20site-C2410C?style=for-the-badge&logo=vercel&logoColor=white" alt="Visitar portfólio" /></a>
+
+<br><br>
+
+<!-- Para adicionar outro projeto, copie o bloco acima (título, descrição, stack e botão) e cole abaixo, separando com <br><br>. -->
 
 <a href="https://github.com/leonardovsa?tab=repositories"><img src="https://img.shields.io/badge/Ver%20outros%20projetos-333333?style=for-the-badge&logo=github&logoColor=white" alt="Ver outros projetos" /></a>
 
@@ -136,7 +136,7 @@ const leonardo = {
 
 <div align="center">
 
-#### Se quiser conversar sobre projetos, trocar ideias ou conhecer possíveis oportunidades, fique à vontade para entrar em contato.
+<h4>Se quiser conversar sobre projetos, trocar ideias ou conhecer possíveis oportunidades, fique à vontade para entrar em contato.</h4>
 
 <br>
 
@@ -150,8 +150,6 @@ const leonardo = {
 
 <br><br>
 
-**Leonardo Vasconcelos de Sá** • Front-End Developer • Assis, São Paulo, Brasil
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FB923C,100:C2410C&height=100&section=footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FB923C,100:C2410C&height=100&section=footer" alt="" />
 
 </div>
