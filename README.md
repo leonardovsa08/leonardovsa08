@@ -26,13 +26,13 @@
 
   <img src="https://img.shields.io/badge/BANCO%20DE%20DADOS-C2410C?style=for-the-badge" alt="Banco de Dados">
   <br><br>
-  <img src="https://skillicons.dev/icons?i=dbeaver&perline=10" alt="DBeaver">
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=dbeaver&theme=dark" alt="DBeaver">
 
   <br><br>
 
   <img src="https://img.shields.io/badge/DESIGN%20E%20FERRAMENTAS-C2410C?style=for-the-badge" alt="Design e Ferramentas">
   <br><br>
-  <img src="https://skillicons.dev/icons?i=figma,git,github,cursor&perline=10" alt="Figma, Git, GitHub, Cursor">
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=figma,git,github,cursor&perline=10&theme=dark" alt="Figma, Git, GitHub, Cursor">
 
 </div>
 
