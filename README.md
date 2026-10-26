@@ -42,13 +42,7 @@
 
 <!-- Para adicionar mais projetos, crie outro card em assets/ no mesmo formato do project-portfolio.png e coloque ao lado, com width="30%" cada (3 por linha). -->
 
-<div align="center">
 
-<br>
-
-[<img src="./assets/projects-button.png" width="58%" alt="Venha conhecer outros projetos">](https://github.com/leonardovsa08?tab=repositories)
-
-</div>
 
 ## GITHUB STATS
 
