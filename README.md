@@ -31,7 +31,7 @@ const leonardo = {
   currentlyBuilding: "Interfaces escaláveis com Angular + Tailwind",
   currentlyLearning: ["Java Spring Boot", "C++", "Integração de APIs REST"],
   workflow: ["Git", "GitHub", "Cursor"],
-  funFact: "Entrei no Angular do zero e aprendi na prática, com projetos reais 🚀",
+  funFact: "Entrei no Angular do zero e aprendi na prática, com projetos reais",
 };
 ```
 
